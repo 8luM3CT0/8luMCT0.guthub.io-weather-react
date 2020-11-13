@@ -3,6 +3,8 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import './fonts/BungeeOutline-Regular.ttf';
+import './fonts/Bungee-Regular.ttf';
 
 ReactDOM.render(
   <React.StrictMode>
